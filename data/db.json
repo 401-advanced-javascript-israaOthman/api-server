@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "id": 2,
+      "name": "Comedy-Films",
+      "display_name": "Comedy",
+      "description": "The latest comedy movies"
+    },
+    {
+      "id": 3,
+      "name": "Drama-Films",
+      "display_name": "Drama",
+      "description": "The latest Drama films"
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "category": 1,
+      "name": "bad boys for life",
+      "display_name": "Bad Boys For Life",
+      "description": "American action comedy film directed by Adil & Bilall and written by Chris Bremner, Peter Craig and Joe Carnahan"
+    },
+    {
+      "category": 1,
+      "name": "Avengers EndGame",
+      "display_name": "Marvel",
+      "description": "The last Avengers movie",
+      "id": 3
+    }
+  ]
+}
